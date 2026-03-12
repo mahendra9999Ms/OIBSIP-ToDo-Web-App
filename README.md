@@ -30,3 +30,7 @@ This project helped me understand:
 - DOM manipulation
 - Event handling in JavaScript
 - Basic web application development
+
+**##Screenshots**
+<img width="2160" height="1368" alt="Screenshot 2026-03-12 193326" src="https://github.com/user-attachments/assets/bd554a06-ae74-4a30-ae55-20bfbc31de2a" />
+
